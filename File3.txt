@@ -1,3 +1,6 @@
 New file 3 added
 
 Stashed change
+
+v2.0 changes
+
